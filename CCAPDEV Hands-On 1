@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CCAPDEV Hands-On 1</title>
+	</head>
+	
+	<body>
+
+		<h1>Maya Marisa P. Palang</h1>
+		
+		<h3>Profile</h3>
+			<ul>
+				<li>Nickname: Maya</li>
+				<li>4th year BS Mathematics (CAP/DS) student at De La Salle University</li>
+				<li>High school: Ateneo de Manila Senior High School (Batch '23)</li>
+				<li>Age: 20</li>
+				<li>Pronouns: she/her</li>
+			</ul>
+		
+		<h3>Mathematical interests</h3>
+			<ul>
+				<li>Combinatorics
+					<ul>
+						<li>Combinatorial designs</li>
+						<li>Tournament graphs</li>
+						<li>Graph coloring</li>
+						<li>Generating functions</li>
+						<li>Orthogonal polynomials</li>
+					</ul>
+				</li>
+				<li>Matrix theory
+					<ul>
+						<li>Numerical linear algebra</li>
+						<li>Spectral graph theory</li>
+						<li>Integer linear programming</li>
+						<li>Matroids</li>
+					</ul>
+				</li>
+				<li>Mathematics involving finite fields
+					<ul>
+						<li>Coding theory</li>
+						<li>Elliptic curves over finite fields</li>
+						<li>Arithmetic geometry</li>
+					</ul>
+				</li>
+			</ul>
+		
+		<h3>Other interests</h3>
+			<ul>
+				<li>Rhythm games
+					<ul>
+						<li>beatmania IIDX (SP Chuuden)</li>
+						<li>BMS (Insane 2nd + sl3)</li>
+						<li>DJMAX</li>
+						<li>maimai (14k)</li>
+						<li>Project SEKAI</li>
+					</ul>
+				</li>
+				<li>Other games
+					<ul>
+						<li>Ace Attorney</li>
+						<li>Genshin Impact</li>
+						<li>Persona 3-5</li>
+						<li>AI: The Somnium Files</li>
+					</ul>
+				</li>
+				<li>Other media</li>
+					<ul>
+						<li>House M.D.</li>
+						<li>The Apothecary Diaries</li>
+						<li>Fragaria Memories</li>
+					</ul>
+			</ul>
+
+	</body>
+</html>

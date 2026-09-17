@@ -1,34 +1,46 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>CCAPDEV Hands-On 1</title>
-	</head>
-	
-	<body>
 
-		<h1>Maya Marisa P. Palang</h1>
-		
-		<h3>Profile</h3>
-			<ul>
-				<li>Nickname: Maya</li>
-				<li>4th year BS Mathematics (CAP/DS) student at De La Salle University</li>
-				<li>High school: Ateneo de Manila Senior High School (Batch '23)</li>
-				<li>Age: 20</li>
-				<li>Pronouns: she/her</li>
-				<li><a href="aboutme.html">More about me</a></li>
-			</ul>
+<head>
+	<title>CCAPDEV</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
-		<h3>A song I like</h3>
-			<video width="640" height="360" controls poster="thumbnail.jpg">
-				<source src="bga.mp4" type="video/mp4">
-			</video>
-	
+<body>
+	<h1>Maya's Page</h1>
 
-		<form>
-			<label for="question"><br>Ask me anything...</label><br>
-			<input type="text" id="question" name="question"><br>
-			<button type="submit" formaction="submitted.html">Submit</button>
-		</form>
+	<nav class="red-strip">
+		<div class="red-strip-content">
+			<a href="homepage.html">Home</a>
+			<a href="math.html">Mathematical interests</a>
+			<a href="otoge.html">Rhythm game stats</a>
+			<a href="interests.html">Other interests</a>
+		</div>
+	</nav>
 
-	</body>
+	<h2>Profile</h2>
+	<ul>
+		<li>Name: Maya Marisa P. Palang</li>
+		<li>Nickname: Maya</li>
+		<li>4th year BS Mathematics (CAP/DS) student at De La Salle University</li>
+		<li>High school: Ateneo de Manila Senior High School (Batch '23)</li>
+		<li>Age: 20</li>
+		<li>Pronouns: she/her</li>
+	</ul>
+
+	<h3>me!!!</h3>
+	<img src="media/face.jpg" alt="Me" class="center-image" width="225" height="300">
+
+	<h3>A song I like</h3>
+	<video width="640" height="360" class="center-image" controls poster="media/thumbnail.jpg">
+		<source src="media/bga.mp4" type="video/mp4">
+	</video>
+
+	<form>
+		<label for="question"><br>Ask me anything...</label><br>
+		<input type="text" id="question" name="question"><br>
+		<button type="submit" formaction="submitted.html">Submit</button>
+	</form>
+</body>
+
 </html>
